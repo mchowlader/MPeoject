@@ -1,0 +1,59 @@
+﻿@model EditTeacherModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="card">
+    <div class="col-md-12">
+        <form asp-action="Edit" asp-controller="Teacher" asp-area="Academic" enctype="multipart/form-data" method="post" asp-antiforgery="true">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" name="Photo" id="email" asp-for="Photo" />
+            <input type="hidden" name="Id" id="id" asp-for="Id" />
+            <div class="container">
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-group">
+                            <label asp-for="Name" class="control-label"></label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Number" class="control-label">Mobile Number</label>
+                            <input asp-for="Number" class="form-control" />
+                            <span asp-validation-for="Number" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Address" class="control-label">Address</label>
+                            <input asp-for="Address" class="form-control" />
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-6">
+                        <div class="form-group col-4">
+                            <div class="">
+                                <img class="profile-user-img img-fluid img"
+                                     src="~/@Model.Photo"
+                                     alt="User profile picture" style="padding-bottom:10px;padding-top:5px;">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="FormFile" class="form-label">Select a photo </label>
+                            <input asp-for="FormFile" class="form-control" type="file" id="formFile">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <input style="margin-left: 500px" type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+}

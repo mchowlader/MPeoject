@@ -1,0 +1,26 @@
+2022-03-10 00:10:47.704 +06:00 [INF] Application Starting up
+2022-03-10 00:12:08.655 +06:00 [INF] Application Starting up
+2022-03-10 00:16:05.885 +06:00 [INF] Application Starting up
+2022-03-10 00:33:26.009 +06:00 [INF] Application Starting up
+2022-03-10 01:08:12.518 +06:00 [INF] Application Starting up
+2022-03-10 01:11:58.995 +06:00 [INF] Application Starting up
+2022-03-10 01:14:39.379 +06:00 [INF] Application Starting up
+2022-03-10 01:18:07.585 +06:00 [INF] Application Starting up
+2022-03-10 01:20:13.723 +06:00 [INF] Application Starting up
+2022-03-10 01:36:19.893 +06:00 [INF] Application Starting up
+2022-03-10 01:41:41.512 +06:00 [INF] Application Starting up
+2022-03-10 01:45:31.623 +06:00 [INF] Application Starting up
+2022-03-10 01:49:39.578 +06:00 [INF] Application Starting up
+2022-03-10 02:27:51.191 +06:00 [INF] Application Starting up
+2022-03-10 03:04:24.477 +06:00 [INF] Application Starting up
+2022-03-10 03:04:57.468 +06:00 [ERR] User not found.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at ManagementSystem.Membership.Services.TeacherService.LoadDataAsync(Int32 id) in D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\Services\TeacherService.cs:line 79
+   at ManagementSystem.Web.Areas.Academic.Models.TeacherModel.EditTeacherModel.LoadDataAsync(Int32 id) in D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Web\Areas\Academic\Models\TeacherModel\EditTeacherModel.cs:line 54
+   at ManagementSystem.Web.Areas.Academic.Controllers.TeacherController.Edit(Int32 Id) in D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Web\Areas\Academic\Controllers\TeacherController.cs:line 81
+2022-03-10 03:06:05.784 +06:00 [INF] Application Starting up
+2022-03-10 03:07:12.547 +06:00 [INF] Application Starting up
+2022-03-10 03:09:05.440 +06:00 [INF] Application Starting up
+2022-03-10 03:15:04.644 +06:00 [INF] Application Starting up
+2022-03-10 03:18:52.158 +06:00 [INF] Application Starting up
+2022-03-10 03:21:00.640 +06:00 [INF] Application Starting up

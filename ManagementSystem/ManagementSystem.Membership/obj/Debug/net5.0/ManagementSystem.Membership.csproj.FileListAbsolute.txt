@@ -1,0 +1,15 @@
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\obj\Debug\net5.0\ManagementSystem.Membership.csproj.AssemblyReference.cache
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\obj\Debug\net5.0\ManagementSystem.Membership.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\obj\Debug\net5.0\ManagementSystem.Membership.AssemblyInfoInputs.cache
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\obj\Debug\net5.0\ManagementSystem.Membership.AssemblyInfo.cs
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\obj\Debug\net5.0\ManagementSystem.Membership.csproj.CoreCompileInputs.cache
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\bin\Debug\net5.0\ManagementSystem.Membership.deps.json
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\bin\Debug\net5.0\ManagementSystem.Membership.dll
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\bin\Debug\net5.0\ManagementSystem.Membership.pdb
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\obj\Debug\net5.0\ManagementSystem.Membership.dll
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\obj\Debug\net5.0\refint\ManagementSystem.Membership.dll
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\obj\Debug\net5.0\ManagementSystem.Membership.pdb
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\obj\Debug\net5.0\ref\ManagementSystem.Membership.dll
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\bin\Debug\net5.0\ManagementSystem.Foundation.dll
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\bin\Debug\net5.0\ManagementSystem.Foundation.pdb
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Membership\obj\Debug\net5.0\ManagementSystem.Membership.csproj.CopyComplete

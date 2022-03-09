@@ -1,0 +1,12 @@
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\bin\Debug\net5.0\ManagementSystem.Foundation.deps.json
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\bin\Debug\net5.0\ManagementSystem.Foundation.dll
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\bin\Debug\net5.0\ManagementSystem.Foundation.pdb
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\obj\Debug\net5.0\ManagementSystem.Foundation.csproj.AssemblyReference.cache
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\obj\Debug\net5.0\ManagementSystem.Foundation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\obj\Debug\net5.0\ManagementSystem.Foundation.AssemblyInfoInputs.cache
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\obj\Debug\net5.0\ManagementSystem.Foundation.AssemblyInfo.cs
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\obj\Debug\net5.0\ManagementSystem.Foundation.csproj.CoreCompileInputs.cache
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\obj\Debug\net5.0\ManagementSystem.Foundation.dll
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\obj\Debug\net5.0\refint\ManagementSystem.Foundation.dll
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\obj\Debug\net5.0\ManagementSystem.Foundation.pdb
+D:\Logic\MizanCode\ManagementSystem\ManagementSystem.Foundation\obj\Debug\net5.0\ref\ManagementSystem.Foundation.dll
